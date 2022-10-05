@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("./snow.jpg");
+    background-image: url("./bg.jpg");
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -20,6 +20,8 @@ h1 {
     font-weight: normal;
     font-size: 4rem;
     margin-top: 5rem;
+    color: antiquewhite;
+    text-shadow: 2px 2px 5px;
 }
 
 .countdown-container {
@@ -33,6 +35,8 @@ h1 {
     font-size: 6rem;
     line-height: 1;
     margin: 1rem 2rem;
+    color: antiquewhite;
+    text-shadow: 2px 2px 5px;
 }
 
 .countdown-el {
@@ -41,4 +45,6 @@ h1 {
 
 .countdown-el span {
     font-size: 1.3rem;
+    color: antiquewhite;
+    text-shadow: 2px 2px 5px;
 }
